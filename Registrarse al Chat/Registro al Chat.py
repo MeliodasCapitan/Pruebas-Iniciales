@@ -7,7 +7,7 @@ def obtener_nombre_usuario():
     nombre = input("Ingresa tu nombre o pulsa ENTER para generar uno automático: ").strip()
     if not nombre:
         nombre = generar_nombre_usuario()
-    print(f"\n✅ Bienvenido al chat, {nombre}!")
+    print(f"\n✅ Bienvenido al chat, pendejo perro {nombre}!")
     return nombre
 
 if __name__ == "__main__":
