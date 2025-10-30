@@ -16,7 +16,7 @@ public class Prueba {
             int op = readInt(sc, "Opción: ");
 
             if (op == 6) {
-                System.out.println("Saliendo. ¡Hasta luego!");
+                System.out.println("Saliendo. ¡Hasta luego genio!");
                 break;
             }
 
